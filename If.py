@@ -1,0 +1,5 @@
+age = int(input("Silahkan masukkan umur anda :"))
+if age < 10: print("Kamu masih anak kecil")
+elif age < 22: print("Kamu sedang berada di masa remaja")
+elif age < 40: print("Kamu pasti punya pekerjaan dan keluarga")
+elif age > 56: print("Kamu sudah pensiun dan akan menikmati hasil dari kerja kerasmu")
